@@ -1,2 +1,7 @@
 # boxGame
-  A small game for graduation design
+  毕业设计：躲避方块小游戏
+  使用c++ + qt 设计客户端游戏界面和逻辑
+  使用socket连接客户端和服务端
+  使用sql server保存用户数据
+  使用多线程实现多人在线和多局对战
+  
